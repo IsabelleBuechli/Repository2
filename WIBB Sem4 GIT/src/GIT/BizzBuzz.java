@@ -17,7 +17,7 @@ public class BizzBuzz {
 					replaced = true;
 				}
 				if (replaced){
-					System.out.print(output+" ");
+					System.out.println(output+" ");
 				} else {
 					System.out.print(i+" ");
 				}
@@ -28,6 +28,7 @@ public class BizzBuzz {
 		public static void main(String[] args) {
 			int max = 100;
 			BizzBuzz bb = new BizzBuzz(max);
+			System.out.println("asdf");
 		}
 
 	}
