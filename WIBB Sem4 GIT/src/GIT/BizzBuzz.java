@@ -29,6 +29,8 @@ public class BizzBuzz {
 			int max = 100;
 			BizzBuzz bb = new BizzBuzz(max);
 			System.out.println("asdf");
+			System.out.println("Hallo Isa");
+			
 		}
 
 	}
