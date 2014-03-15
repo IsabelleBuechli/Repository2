@@ -30,6 +30,7 @@ public class BizzBuzz {
 			BizzBuzz bb = new BizzBuzz(max);
 			System.out.println("asdf");
 			System.out.println("Hallo Isa");
+			System.out.println("Hallo Isa 2te änderung");
 			
 		}
 
